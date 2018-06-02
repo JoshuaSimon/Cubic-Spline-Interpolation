@@ -35,7 +35,7 @@ for k = 1:n
     end
 end
 
-% Berechnung von mueh, lambda und delta
+% Calculate my, lambda, delta
 my = zeros(n-1,1);
 lambda = zeros(n-1,1);
 delta_vor = zeros(n,1);
